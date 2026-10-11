@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/modoboa-dmarc/commit/47572ed820f16203670d0f8c2881e10ecc1d53a7",
       "git:hexsha": "47572ed820f16203670d0f8c2881e10ecc1d53a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/modoboa-dmarc/commit/448e38ea36d1b7feff5b9805f766184cc1695684",
