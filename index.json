@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "modoboa-dmarc",
+  "versions": [
+    {
+      "commit": "47572ed820f16203670d0f8c2881e10ecc1d53a7",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:28:01.857659+00:00"
+    }
+  ]
+}
